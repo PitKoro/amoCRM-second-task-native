@@ -1,0 +1,7 @@
+{
+    "require": {
+        "amocrm/amocrm-api-library": "^0.5.2",
+        "symfony/debug": "^4.4",
+        "symfony/var-dumper": "^5.3"
+    }
+}
